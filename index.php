@@ -22,6 +22,7 @@
                 <div class="card">
                     <div class="header">
                         <h2>INICIO SECCION</h2>
+                        <h2>INICIO SECCION</h2>
 
                     </div>
 
